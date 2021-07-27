@@ -303,7 +303,7 @@ This lab assumes you have:
     ![](./images/monitor_upgrade.png " ")
 
 11. Wait until the upgrade completed. Depending on the hardware, the upgrade will take about 25-35 minutes.
-*If you don't want to watch the screen this long, you could meanwhile approach Lab 13: Transportable Export Import as it uses another database, and then return to this lab stage here again - don't close the xterm, don't exit AutoUpgrade.*
+*If you don't want to watch the screen this long, you could meanwhile approach Lab: Transportable Export Import as it uses another database, and then return to this lab stage here again - don't close the xterm, don't exit AutoUpgrade.*
 
     ![](./images/upgrade_19c_28.png " ")
 
